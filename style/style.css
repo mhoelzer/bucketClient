@@ -1,0 +1,36 @@
+body{
+	background: url(grass.jpg);
+}
+
+.search-bar{
+	margin: 20px;
+	text-align: left;
+}
+
+.vidSearchLbl{
+	padding-right: 10px;
+	font-family: Georgia, serif;
+	color: orange;
+	font-size: 20px;
+}
+
+.search-bar input {
+	width: 25%;
+	font-family: Georgia, serif;
+}
+
+.video-item img{
+	max-width: 64px;
+	font-family: Georgia, serif;
+}
+
+.video-detail .details{
+	margin-top: 10px;
+	padding: 10px;
+	border: 2px solid orange;
+	font-family: Georgia, serif;
+	color: white;
+	border-radius: 4px;
+	background-color: rgba(70, 147, 40, .7);
+	background-image: url("https://www.transparenttextures.com/patterns/pool-table.png");
+}
